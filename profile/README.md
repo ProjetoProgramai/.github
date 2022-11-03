@@ -1,4 +1,4 @@
-# Programai
+# Projeto Programai
 Seja Bem Vindo(a) ao Projeto Programai!
 
 Esse projeto é uma iniciativa dos alunos do Curso de Ciência da computação da UNIP, campus Manaus, é tem como objetivos:
@@ -51,13 +51,14 @@ Quando o Programai estiver completamente modelado, será disponibilizado nos res
 Serão ministradas várias aulas para que a equipe atinja a proficiência mínima para trabalhar com o código.
 
 <br>
-<h1>É altamente recomendado o uso de IDE para a execução dos trabalhos. (minha sugestão, PHPSTORM e WEBSTORM, pois eles possuem diversas ferramentas integradas que facilitam muito a vida do desenvolvedor, como interfaces de gerenciamento de banco, interfaces para gerenciamento dos repositórios do GitHub, dentre outros)</h1>
+<h1>É altamente recomendado o uso de IDE para a execução dos trabalhos.</h1>
+Minha sugestão, PHPSTORM e WEBSTORM, pois eles possuem diversas ferramentas integradas que facilitam muito a vida do desenvolvedor, como interfaces de gerenciamento de banco, interfaces para gerenciamento dos repositórios do GitHub, dentre outros)<br>
 
 <br> Para maiores dúvidads, entre em contato com Tiago Brilhante (criador do Projeto), através do email tiagobrilhantemania@gmail.com.
 Todos os integrantes do projeto estão em um grupo do WhatsApp dedicado ao mesmo, caso queira fazer parte, solicite através do email acima.
 
 <br>
-Todo poder emana do código.
+Todo poder emana do código.<br>
 Seja Feliz. É obrigatório.
 
 
